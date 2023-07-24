@@ -1,4 +1,28 @@
 body {
-    background: rgb(84, 79, 231);
+    background: black;
+    cursor: url('your-cursor.png'), auto;
+    background-image: linear-gradient(to bottom right, #4f5acd, #193b50);
+
   }
-  
+h1 {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+}
+ul {
+    color: white;
+    list-style: none;
+    padding: 10px;
+    margin:auto;
+    margin-top: -50px;
+  }
+h2 {
+    color: white;
+    margin: 25px;
+    
+}
+
+h2 + ul {
+    color: white;
+    margin:auto
+}
