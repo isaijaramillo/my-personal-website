@@ -37,3 +37,12 @@ h2 {
   margin: 0;
   padding-right: 20px;
 }
+
+img {
+  width:100px;
+  height: auto;
+  margin:10px;
+  border: 2px;
+  border-radius: 10px;
+}
+
